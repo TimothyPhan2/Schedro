@@ -78,4 +78,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 📄 License
 
-MIT © [Timothy Phan]
+Distributed under the MIT License. See [LICENSE](LICENSE) for details.
